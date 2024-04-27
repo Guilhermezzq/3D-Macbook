@@ -1,8 +1,9 @@
-## Integração de Sites em 3D usando React e Three.js
 
-Este projeto demonstra como integrar sites reais dentro de um objeto 3D usando React e Three.js. O código apresentado aqui utiliza a biblioteca @react-three/drei para facilitar a criação de ambientes 3D interativos.
+## 3D Website Integration using React and Three.js
 
-Este projeto foi desenvolvido com base no tutorial fornecido no vídeo "https://youtu.be/SQRqU3N3ehs?si=MgZZnBmqxulS83E0", disponível.
+This project demonstrates how to integrate real websites into a 3D object using React and Three.js. The code presented here utilizes the @react-three/drei library to facilitate the creation of interactive 3D environments.
+
+This project was developed based on the tutorial provided in the video "https://youtu.be/SQRqU3N3ehs?si=MgZZnBmqxulS83E0", available.
 
 # Three.js - React Three Fiber + Drei  / Como Usar Este Repositório !
 
