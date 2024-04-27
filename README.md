@@ -1,5 +1,5 @@
 
-## 3D Website Integration using React and Three.js
+# 3D Website Integration using React and Three.js
 
 This project demonstrates how to integrate real websites into a 3D object using React and Three.js. The code presented here utilizes the @react-three/drei library to facilitate the creation of interactive 3D environments.
 
